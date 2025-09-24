@@ -24,19 +24,18 @@ The goal of this analysis is to:
 ---
 
 ## 📂 Project Files  
-- `AmazonPrime_EDA_Project.ipynb` → Jupyter Notebook with complete analysis  
-- *(Optional)* `dataset.csv` → **Not shared here** (dataset is from [Kaggle](https://www.kaggle.com/) / other public sources; please add link if applicable)  
-
+- `AmazonPrime_EDA_Project.ipynb` → Jupyter Notebook with complete analysis    
+- 🚫 **Dataset not included** (confidential / not public).  
+- 📸 Screenshots of analysis results (see below). 
 ---
 ## 📸 Sample Visualizations  
 
 Content added over the years:  
-![Content released by Year](<img width="1538" height="754" alt="content_released_by_year" src="https://github.com/user-attachments/assets/bb8b9d61-a015-432c-b811-e3d7850a4b81" />
-)  
+![Content released by Year](content_released_by_year.png)  
 
 Top genres on Amazon Prime:  
-![Top Genres](<img width="1219" height="715" alt="top_genres" src="https://github.com/user-attachments/assets/78973e6a-7aa8-4ac9-a31f-8c407dbc475b" />
-)  
+![Top Genres](top_genres.png)  
+ 
 
 ## 🚀 How to Run the Project  
 1. Open the notebook in **Google Colab** or Jupyter Notebook.  
