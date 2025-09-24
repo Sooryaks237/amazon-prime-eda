@@ -42,3 +42,9 @@ Top genres on Amazon Prime:
 2. Install required libraries if running locally:  
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/soorya-k-s-/)  
+- 📧 Email: **sooryaks552@gmail.com*
+---
+⭐️ From [Sooryaks237](https://github.com/Sooryaks237)
